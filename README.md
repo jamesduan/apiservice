@@ -1,4 +1,4 @@
 # apiservice
-go lang
+a demo for docker-compose usage
 
-##### this is a api backend that implements by golang.
+##### this is a docker-compose example
